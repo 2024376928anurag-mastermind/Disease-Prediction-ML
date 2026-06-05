@@ -1,0 +1,10 @@
+Dataset Used: Breast Cancer Dataset (Sklearn / UCI)
+
+Type: Classification Dataset
+
+Target:
+- 0 → Malignant
+- 1 → Benign
+
+Total Samples: 569
+Features: 30 numerical features
